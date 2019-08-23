@@ -1,5 +1,0 @@
-Library Management System:
-
-An application used by Librarians using which they can look up for a book and its details.
-Apart from that, they can also use this application to check out books for a user as well as check in the same book when returned by a user.
-They can manage fines and fetch all the relevant details based on the dates a particular book was checked out
