@@ -1,2 +1,3 @@
 # DatabaseDesign
-Implemented these Projects as part of CS 6360 Database Design under Professor Chris Irwin Davis
+Implemented these Projects as part of CS 6360 Database Design under Professor Chris Irwin Davis at University of Texas at Dallas.
+
